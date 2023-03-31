@@ -1,6 +1,6 @@
 Name:		texlive-hideanswer
 Version:	63852
-Release:	1
+Release:	2
 Summary:	Generate documents with and without answers by toggling a switch
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hideanswer
